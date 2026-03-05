@@ -1,6 +1,7 @@
 # Actividad 1.2 - Pila aplicada a Undo/Redo en Java
 
 **Estudiante:** Steven Zuluaga Cortés
+Julian David Niño Cuervo
 
 ## 1) Proposito de la actividad
 Que el estudiante comprenda el concepto de **pila (Stack)** y su estructura LIFO (*Last In, First Out*), y que sea capaz de aplicarlo en un simulador de **deshacer/rehacer (Undo/Redo)** para un editor de texto simple en Java, trabajando en equipo y usando buenas practicas con GitHub.
