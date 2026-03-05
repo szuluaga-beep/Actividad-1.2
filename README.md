@@ -76,3 +76,5 @@ Se considera que la actividad cumple su objetivo cuando el equipo:
 - Implementar una clase `Action` para representar cambios de texto.
 - Crear una clase `TextEditor` con `write`, `undo` y `redo`.
 - Agregar pruebas unitarias para validar escenarios limite (pilas vacias, multiples undos/redos, etc.).
+
+![img.png](img.png)
